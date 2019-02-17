@@ -1,0 +1,13 @@
+{
+  "main.css": "/random_quotes_app/static/css/main.cdb18e8c.chunk.css",
+  "main.js": "/random_quotes_app/static/js/main.d70776cc.chunk.js",
+  "main.js.map": "/random_quotes_app/static/js/main.d70776cc.chunk.js.map",
+  "static/js/1.fbfa9ac1.chunk.js": "/random_quotes_app/static/js/1.fbfa9ac1.chunk.js",
+  "static/js/1.fbfa9ac1.chunk.js.map": "/random_quotes_app/static/js/1.fbfa9ac1.chunk.js.map",
+  "runtime~main.js": "/random_quotes_app/static/js/runtime~main.e60c39e5.js",
+  "runtime~main.js.map": "/random_quotes_app/static/js/runtime~main.e60c39e5.js.map",
+  "static/css/main.cdb18e8c.chunk.css.map": "/random_quotes_app/static/css/main.cdb18e8c.chunk.css.map",
+  "index.html": "/random_quotes_app/index.html",
+  "precache-manifest.18f9d6a3c63f9c1a455eed79da520e77.js": "/random_quotes_app/precache-manifest.18f9d6a3c63f9c1a455eed79da520e77.js",
+  "service-worker.js": "/random_quotes_app/service-worker.js"
+}
